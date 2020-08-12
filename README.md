@@ -24,3 +24,10 @@ Update Plasma Theme:
 
 Correction: colors
 
+Update Imagination-Breeze-Icons:
+-------------------------------
+
+Correction of some icons and action folder
+
+
+
