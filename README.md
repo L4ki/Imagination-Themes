@@ -20,7 +20,7 @@ Added icons: amarok.svg, phone.svg
 Changelog: 12.08.2020.
 ----------------------
 
-Plasma Theme:
+Update Plasma Theme:
 
 Correction: colors
 
