@@ -30,4 +30,14 @@ Update Imagination-Breeze-Icons:
 
 Correction of some icons in the action folder
 
+Changelog: 30.08.2020.
+----------------------
+
+Plasma Theme
+-------------
+
+Widgets correction: button.svg, plasmoidheading.svg, viewitem.svg
+
+
+
 
