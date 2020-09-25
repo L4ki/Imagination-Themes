@@ -38,6 +38,26 @@ Plasma Theme
 
 Widgets correction: button.svg, plasmoidheading.svg, viewitem.svg
 
+Changelog: 25.09.2020.
+----------------------
+
+Plasma Theme
+------------
+ 
+Fixed widget: button.svg
+
+GTK-3 Theme
+-----------
+
+Gtkrc file correction
+
+Icons
+-----
+
+Add icons (apps folders 16 and 48)
+
+
+
 
 
 
